@@ -2,7 +2,7 @@
 
 This section contains all of the flags were found during the CTF with an associated discussion of how we solved them.
 
-# Believe Your Eyes
+# Believe With You Eyes
 **Point Value:** 100
 
 **Prompt**
@@ -50,7 +50,7 @@ Flag: **flag{Di77icu8tyI9now@!!#-Youdidit!!}**
 **Methodology**
 This was a basic puzzle for NilbinSec due to our ARG focus and would probably be better classified as a 100 point flag for us personally. We were provided with the following string in hardy.txt (in this folder). The order of operations to find the flag was: Base58 the provided code to get morse code (dcode.fr) -> Translate the morse code to text to get binary -> Convert the binary to ASCII to get decimals -> Convert the decimals to ASCII to get the flag.
 
-# Reciprocal Cypher
+# Reciprical Cypher
 **Point Value:** 100
 
 **Prompt**
