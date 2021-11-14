@@ -1,6 +1,6 @@
 # Flag Discussion
 
-This section contains all of the flags were found during the CTF with an associated discussion of how we solved them.
+This section contains all of the flags we found during the CTF with an associated discussion of how we solved them.
 
 # Believe With You Eyes
 **Point Value:** 100
