@@ -1,5 +1,6 @@
 # Winja-CTF-c0c0n-2021-Writeup
 <b>NilbinSec's participation in the Winja CTF for c0c0n 2021</b>
+![image](https://user-images.githubusercontent.com/85370905/141664893-f2d2037e-b607-4b81-9c64-9a9b32d85dfa.png)
 
 This repo covers NilbinSec's participation in the Winja CTF during c0c0n 2021. c0c0n 2021 was entirely virtual but is normally hosted live in India. Maybe we will visit one day!
 
@@ -10,9 +11,15 @@ The CTF was broken into the following sections with specific section write-ups i
 
 **Crypto**
 
+**Malware Analysis**
+
 **Reverse Engineering**
 
 **OSINT**
+
+**Forensics**
+
+**Steganography**
 
 # Results
 NilbinSec found 8 flags and secured 1,350 points out of a possible 4,100 points and came in 21st place overall. 
