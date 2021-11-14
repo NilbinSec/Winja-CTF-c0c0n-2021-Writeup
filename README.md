@@ -22,7 +22,7 @@ The CTF was broken into the following sections with specific section write-ups i
 **Steganography**
 
 # Results
-NilbinSec found 8 flags and secured 1,350 points out of a possible 4,100 points and came in 21st place overall. 
+NilbinSec found 8 flags and secured 1,350 points out of a possible 4,100 points, coming in 21st place overall. 
  
 # Who we are: ![nilbin-sec-orb3x3](https://user-images.githubusercontent.com/85370905/121083132-0ad60580-c7ad-11eb-90d8-ed91622db41f.png)
 Nilbin_Sec is a recently formed hacker group formed out of some of the hardcore fans of Nathan Barnatt's Pseudo-Alternate Reality Game character Dad. Currently we focus our pursuits on OSINT, cryptography, web exploitation, and custom hardware hacking. We can be reached at: nilbinsec (at) gmail (dot) com. If you are interested in learning more about the Dad universe, check out his youtube channel at: https://www.youtube.com/channel/UCFzpLhfgdPPVJ_7YrVO-GSw.
