@@ -124,4 +124,9 @@ This showed a simulated Chrome browser with a bunch of useless tabs open.
 
 ![image](https://user-images.githubusercontent.com/85370905/141664770-0876b209-9c6d-4d46-99a6-e0e317b28506.png)
 
-One of the tabs said "Nothing here, dirbuster might help". Dirbuster was not needed though, since the description of the challenge eventually added, "look for secret files/directories, try .secret". Adding .secret to the url leads to a directory with a readme, secret_key, and Login_Data files. The readme said something like "Chrome saved passwords aren't hard to decrypt when you've got the database and the secret key". Googling how to decrypt chrome passwords provides several tutorials. With the tutorial and python Login_Data was decrypted using the secret_key and the password was the flag. This tutorial was helpful: https://ohyicong.medium.com/how-to-hack-chrome-password-with-python-1bedc167be3d. The Python Script is uploaded above as valet.py.
+One of the tabs said "Nothing here, dirbuster might help". Dirbuster was not needed though, since the description of the challenge eventually added, "look for secret files/directories, try .secret". Adding .secret to the url leads to a directory with a readme, secret_key, and Login_Data files. The readme said something like "Chrome saved passwords aren't hard to decrypt when you've got the database and the secret key". Googling how to decrypt chrome passwords provides several tutorials. With the tutorial and python Login_Data was decrypted using the secret_key and the password was the flag. This tutorial was helpful: https://ohyicong.medium.com/how-to-hack-chrome-password-with-python-1bedc167be3d. The Python Script is uploaded above as valet.py. 
+
+We were also delighted to learn we got First Blood for this flag:
+
+![image](https://user-images.githubusercontent.com/85370905/141665908-0f8fd53b-d5cc-484b-8f8f-2ba8fdff8010.png)
+
