@@ -15,7 +15,7 @@ _Look twice or thrice..._
 Flag: **flag{849d97fa58871dad45e81027f861739_maYB3_i_SHOULd_BELIeve-7HeM}**
 
 **Methodology**
-At first is looked like we should start by messing with contrast/color levels to pull out the flag as a form of steg. The below image found the end of the flag, but appending to the clearly visible one was no joy. 
+At first it looked like we should start by messing with contrast/color levels to pull out the flag as a form of steg. The below image found the end of the flag, but appending to the clearly visible one was no joy. 
 
 ![image](https://user-images.githubusercontent.com/85370905/141664291-44e19a18-1eed-43e8-9f8e-64ac4d40b108.png)
 
